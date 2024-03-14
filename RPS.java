@@ -1,4 +1,4 @@
-package rockpaperscissor;
+package javaproject;
 
 
 import java.util.*;
